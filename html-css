@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <link rel="stylesheet" href="stylesheet.css">
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@3.2.0/fonts/remixicon.css" rel="stylesheet">
+</head>
+<body>
+  <!-- sidebar-->
+  <div class="sidebar">
+    <a href="#" class="logo">
+    <img src="img/logo.png" alt="logo">
+    </a>
+    <!--profile image-->
+    <div class="profile">
+      <div class="profile-img">
+        <img src="img/profile.jpg" alt="profile">
+         </div>
+         <div class="name"></div>
+         <h1>Priya</h1>
+         <img src="img/verify.png" alt="verify">
+    </div>
+    <span>@Priya</span>
+  </div>
+  <!-- About-->
+          <div class="about">
+           <!-- box 1-->
+            <div class="box">
+            <h3>54</h3>
+            <span> posts</span>
+           </div>
+     <!-- box 2-->
+     <div class="box">
+        <h3>200</h3>
+        <span> followers</span>
+  </div>
+   <!-- box3-->
+   <div class="box">
+    <h3>154</h3>
+    <span> following</span>
+            </div>
+      </div>
+   </div>
+
+  
+</body>
+</html>
